@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,27 @@ redirect_from:
   - /about.html
 ---
 
+My name is **Basel Hindi**, and I am a Senior Software Engineer in AI/ML at Nike, where I build large-scale generative AI systems used across the enterprise and contribute to the architecture of production AI platforms.
 
+I design and build **production AI systems**, and advise engineering teams and leadership on AI architecture and strategy. My work focuses on the gap between AI that works in research and AI that works reliably in production, particularly in areas such as agentic systems, evaluation, and safety.
 
+### Areas of Interest
 
+- Agentic AI systems  
+- LLM evaluation and guardrails  
+- Multimodal AI  
+- Scalable AI infrastructure  
 
-Welcome to my homepage! My name is Basel Hindi, and I work on Human-computer Interaction with Professor [Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html) in the Computer-Enabled Abilities Laboratory [(CEAL)](https://ceal.cs.columbia.edu). 
+### Background
 
-I am pursuing a Master’s degree in computer science at Columbia University (expected graduation in December 2023). My research interests include computer vision, deep learning, and human-computer interaction, and the usage of these tools for improving accessibility and system autonomy.
+Before working on generative AI systems, I developed autonomy and perception software for autonomous vehicles, including sensor-fusion and LiDAR-based decision systems.
 
-I graduated in 2018 with a bachelor’s degree in Mechanical Engineering from Texas A&M University. I then worked in industry for three years doing autonomous vehicle R&D. Throughout my time in industry, I developed a passion for CS, and more specifically, for computer vision and artificial intelligence. 
+I hold a **Master of Science in Computer Science from Columbia University**, where I was an NSF DREAM Research Fellow conducting research in computer vision and multimodal accessibility systems. At Columbia, I worked on human-computer interaction with Professor [Brian A. Smith](http://www.cs.columbia.edu/~brian/index.html) in the **[Computer-Enabled Abilities Laboratory (CEAL)](https://ceal.cs.columbia.edu)**.
 
-Research
-======
-Since starting at Columbia University, I have been conducting research within the domains of Human-computer Interaction, Computer Vision, Accessibility, and Machine Learning. I also completed the Distributed Research Apprenticeships for Master's (DREAM) program, and you can find my corresponding blog [here](https://baselhindi.github.io/dreamprogram/).
+---
+
+## Research & Writing
+
+You can find my publications on my **[Google Scholar](https://scholar.google.com/citations?hl=en&user=U38q460AAAAJ&view_op=list_works&sortby=pubdate)** profile.
+
+I also participated in the **NSF DREAM program**, and wrote about the experience and research work on my **[DREAM program blog](https://baselhindi.github.io/dreamprogram/)**.
